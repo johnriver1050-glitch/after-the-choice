@@ -1,0 +1,7 @@
+test-tools/
+node_modules/
+*.zip
+audio/*.mp3
+*-results.json
+.env*
+*.log
